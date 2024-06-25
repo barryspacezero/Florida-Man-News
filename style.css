@@ -133,7 +133,7 @@ footer{
 
 @media screen and (max-width:800px){
     #banner{
-        background-size: contain;
+        background-size: cover;
         background-position: center;
         background-color: rgb(120, 206, 255);
     }
